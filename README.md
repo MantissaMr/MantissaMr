@@ -1,3 +1,3 @@
-## Hi, I'm the infamous Al'ameen 👋
+## Hi 👋
 
-I am an experienced data analyst eager to transition into data engineering, utilizing my analytical skills to design and maintain robust data solutions for downstream analysis. Proficient in SQL, R, Python, and cloud technologies, I am dedicated to improving data accessibility and quality. Outside of work, you’ll find me writing on Substack or in my private journals, listening to podcasts, or likely rewatching one of my favorite shows. I’m always expanding my skills, eager to connect with others, and explore new paths. Whether it’s discussing data, linguistics, or even debating a quirky theory about The Office, I’m open to a friendly chat. Feel free to reach out anytime! Till then, au revoir!
+I spend my downtime rewatching shows or tuning into The Vergecast and Waveform. Always up for a friendly chat. Au revoir!
